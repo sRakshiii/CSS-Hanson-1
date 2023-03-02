@@ -1,0 +1,31 @@
+h2{
+    color:chocolate ;
+    font-style:italic;
+}
+.lists{
+    line-height: 40px;
+    color:maroon;
+}
+.list1{
+    color:maroon;
+    text-decoration-line: line-through;
+    font-weight: bold;
+}
+.list2{
+    background-color: yellow;
+    font-weight: bold;
+}
+.list3{
+    color: maroon;
+    letter-spacing: 4px;
+}
+
+p{
+    color:brown;
+}
+
+.anchor{
+    text-decoration-line: none;
+    color:crimson;
+    background-color: yellow;
+}
